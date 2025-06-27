@@ -4,6 +4,8 @@ A modern, responsive **SaaS landing page UI** built using **Vite + React** and s
 
 > 🎨 Personal project focusing on frontend UI/UX excellence.
 
+###[SITE URL](https://xora-ai-landing-page-phi.vercel.app/)
+
 ---
 
 ## ✨ Features
@@ -18,6 +20,18 @@ A modern, responsive **SaaS landing page UI** built using **Vite + React** and s
 - 🎯 Clean and modern design, ideal for SaaS, startup, or AI tools
 
 ---
+
+## Screenshots
+
+### Desktop preview
+<img width="500" alt="Screenshot 2025-06-27 at 10 20 38 PM" src="https://github.com/user-attachments/assets/820b9431-f6a7-442a-a55e-41afc041ad35" />
+
+### Mobile preview
+
+<img width="300" alt="Screenshot 2025-06-27 at 10 20 51 PM" src="https://github.com/user-attachments/assets/f3457059-bbc9-477b-afb4-9c90abe03dd3" />
+
+### [Visit URL](https://xora-ai-landing-page-phi.vercel.app/)
+
 
 ## 🛠️ Tech Stack
 
